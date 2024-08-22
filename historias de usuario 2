@@ -1,0 +1,4 @@
+**Descripción:** Como usuario, quiero poder registrarme en la aplicación para acceder a todas las funcionalidades.
+**Criterios de Aceptación:**
+- El usuario debe poder ingresar su nombre, correo electrónico y contraseña.
+- El sistema debe enviar un correo de verificación.
